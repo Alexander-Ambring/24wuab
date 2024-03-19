@@ -39,7 +39,6 @@ nav{
 
 main{
     grid-area: mn;
-    height: 350vh;
     width: 100vw;
     background-color: #00b300;
 }
@@ -104,6 +103,11 @@ main p{
     font-size: 1.3rem;
     margin-right: 3rem;
     margin-left: 3rem;
+}
+
+main table{
+    color: white;
+    font-family: "Open Sans", sans-serif;
 }
 
 .arrow{
